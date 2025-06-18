@@ -1,2 +1,3 @@
 Hello from file1
 New changes
+"changes using git in cmd" 
